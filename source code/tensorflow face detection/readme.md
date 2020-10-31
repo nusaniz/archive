@@ -3,5 +3,5 @@
 
 ## List
 1. List
-   - satu
+   * satu
      - dua
