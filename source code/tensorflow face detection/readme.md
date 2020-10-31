@@ -6,6 +6,6 @@
    * satu
      - dua
      
-- [x] Finish my changes
+- [ ] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
